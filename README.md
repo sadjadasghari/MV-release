@@ -1,3 +1,8 @@
+Links to OF for UCF&HMDB51:
+
+https://github.com/feichtenhofer/st-resnet
+
+
 Link to UCF101-24 ST-annotations and data:
 
 https://github.com/gurkirt/corrected-UCF101-Annots
