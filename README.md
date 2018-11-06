@@ -1,3 +1,7 @@
+Link to UCF101-24 ST-annotations and data:
+
+https://github.com/gurkirt/corrected-UCF101-Annots
+
 This is the code for testing part of our CVPR code and further.
 
 To run the code, you need to install ffmpeg and opencv 2.4.11.
